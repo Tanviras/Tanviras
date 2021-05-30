@@ -20,7 +20,7 @@ I'm interested in developing user friendly web apps. I love to work with new tec
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tanviras&label=Profile%20views&color=0e75b6&style=flat" alt="tanviras" /> </p>
 
-<h1>Technological Skills</h1>
+<h2>Technological Skills</h2>
 
 <h3>Comfortable</h3>
 <p>
@@ -34,6 +34,15 @@ I'm interested in developing user friendly web apps. I love to work with new tec
 <img align="center" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="mui" height="30"/>
 <br/><img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" height="30"/> 
 <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" height="30"/> 
+</p>
+
+<h3>Familiar</h3>
+<p>
+<img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="node" height="30"/>
+<img align="center" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" height="30"/>
+<img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" height="30"/>
+<img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" height="30"/> 
+<img align="center" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter" height="30"/> 
 </p>
 
 
