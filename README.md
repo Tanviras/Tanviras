@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/tanvirsar" target="blank"><img src="https://img.shields.io/twitter/follow/tanvirsar?logo=twitter&style=for-the-badge" alt="tanvirsar" /></a> </p>
 
-<p align="left"> <a href="mailto:tanviras625@gmail.com" target="blank"><img src="https://i.imgur.com/KbR7rmB.png" alt="tanviras625@gmail.com"/></a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tanvirsar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="tanvirsar" height="30" width="40" /></a>
