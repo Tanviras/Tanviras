@@ -7,10 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tanvirsar" target="blank"><img align="center" src="https://img.icons8.com/officexs/16/000000/twitter.png" alt="tanvirsar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tanvirahmedsarker" target="blank"><img align="center" src="" alt="tanvirahmedsarker" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/tanvirahmedsarker" target="blank"><img align="center" src="" alt="Connect" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100009688984369" target="blank"><img align="center" src="" alt="tanvirahmedontu" height="30" width="40" /></a>
-<a href="https://instagram.com/tanvirontu" target="blank"><img align="center" src="" alt="tanvirontu" height="30" width="40" /></a>
+  <button></button><a href="https://instagram.com/tanvirontu" target="blank"><img align="center" src="" alt="tanvirontu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
