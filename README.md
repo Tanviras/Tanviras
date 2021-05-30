@@ -1,8 +1,8 @@
 <h1 align="left">Tanvir Ahmed Sarker</h1>
 
 <p>
-<img src="https://i.imgur.com/4qweBVi.png" alt='web' width="400" height:"550">
-<img src="https://i.imgur.com/292qHA4.png" alt='front' width="400" height:"550">
+<img src="https://i.imgur.com/4qweBVi.png" alt='web' width="400" height:"650">
+<img src="https://i.imgur.com/292qHA4.png" alt='front' width="400" height:"650">
 </p>
 
 <p>
