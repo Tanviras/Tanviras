@@ -8,9 +8,9 @@
 
 - 💬 Ask me about **React and JavaScript**
 
-- 📫 How to reach me **tanviras625@gmail.com**
+- 📫 Mail me at **tanviras625@gmail.com**
 
-- ⚡ Fun fact **If I had to eat one type of food for the rest of my life, it would be WATERMELON**
+- ⚡ Fun fact about me: **If I had to eat one type of food for the rest of my life, it would be WATERMELON**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
