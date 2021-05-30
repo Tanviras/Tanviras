@@ -60,11 +60,11 @@ I'm interested in developing user friendly web apps. I love to work with new tec
 
 <h2>🎉 Achievements</h2>
 <ul>
-<li>Runner-up(regional): Talent Hunt Quizzing Competitions, organized by CUET Career Club</li>
-<li>Champion: Inter-cantonment Extempore Speech Competition</li>
-<li>Champion: Inter-cantonment Quizzing Competition</li>
-<li>Award: 'Academic Excellence Award' at Cumilla Cantonment High School</li>
-<li>Scholarships: Board scholarships in JSC, SSC and HSC. Got 'Bright Star Scholarship' in Cumilla region</li>
+<li><b>Runner-up(regional):</b> Talent Hunt Quizzing Competitions, organized by CUET Career Club</li>
+<li><b>Champion:</b> Inter-cantonment Extempore Speech Competition</li>
+<li><b>Champion:</b> Inter-cantonment Quizzing Competition</li>
+<li><b>Award:</b> 'Academic Excellence Award' at Cumilla Cantonment High School</li>
+<li><b>Scholarships:</b> Board scholarships in JSC, SSC and HSC. Got 'Bright Star Scholarship' in Cumilla region</li>
 </ul>
 
 <h2>My GitHub stats at a glance</h2>
