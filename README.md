@@ -4,7 +4,6 @@
 <a href="https://linkedin.com/in/tanvirahmedsarker" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect" height="30" /></a>
 <a href="https://twitter.com/TanvirSar" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="tanvirsar" height="30"/></a>
 <a href="https://www.facebook.com/profile.php?id=100009688984369" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="tanvirahmedontu" height="30"/></a>
-
 <a href="https://www.instagram.com/tanvirontu/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="tanvirontu" height="30"/></a>
 
 
@@ -27,6 +26,7 @@ I'm interested in developing user friendly web apps. I love to work with new tec
 
 <p align="left"> 
 <h3>Comfortable</h3>
+</p>
 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   
@@ -58,7 +58,6 @@ I'm interested in developing user friendly web apps. I love to work with new tec
   
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanviras&show_icons=true&locale=en&layout=compact" alt="tanviras" /></p>
 
