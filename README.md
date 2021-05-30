@@ -24,7 +24,7 @@ Currently, I am pursuing my Undergraduation degree in Mechanical Engineering fro
 
 I'm interested in developing user friendly web apps. I love to work with new technologies and playing with different stacks.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tanviras&label=Thank%20you%20for%your%visit&color=0e75b6&style=flat" alt="tanviras" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tanviras&label=Thank%20you%20for%20your%20visit&color=0e75b6&style=flat" alt="tanviras" /> </p>
 
 <h2>Technological Skills</h2>
 
