@@ -54,6 +54,7 @@ I'm interested in developing user friendly web apps. I love to work with new tec
 <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" height="30"/> 
 <img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" height="30"/> 
 <img align="center" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="conda" height="30"/> 
+<img align="center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" height="30"/>   
 </p>
 
 
