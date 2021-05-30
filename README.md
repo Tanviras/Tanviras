@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/tanvirsar" target="blank"><img src="https://img.shields.io/twitter/follow/tanvirsar?logo=twitter&style=for-the-badge" alt="tanvirsar" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 
 <a href="https://linkedin.com/in/tanvirahmedsarker" target="blank"><img align="center" src="" alt="Connect" height="30" width="40" /></a>
