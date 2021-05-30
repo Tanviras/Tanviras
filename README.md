@@ -58,9 +58,8 @@ I'm interested in developing user friendly web apps. I love to work with new tec
 </p>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanviras&show_icons=true&locale=en&layout=compact" alt="tanviras" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanviras&show_icons=true&locale=en&layout=compact" alt="tanviras" />
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanviras&" alt="tanviras"/>
-<h5>Records at GitHub</h5>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanviras&show_icons=true&locale=en" alt="tanviras" />
 <br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanviras&show_icons=true&locale=en" alt="tanviras" />
