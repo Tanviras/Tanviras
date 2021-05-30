@@ -9,8 +9,8 @@
       <a href="https://www.facebook.com/profile.php?id=100009688984369" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="tanvirahmedontu" height="30"/></a>
      <a href="https://www.instagram.com/tanvirontu/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="tanvirontu" height="30"/></a>
     </td>
-    <td>
-      <img src="https://i.imgur.com/SGK4Ent.png" width="450">
+    <td colspan="2">
+      <img src="https://i.imgur.com/SGK4Ent.png">
    </td>
  </tr>
 </table>
