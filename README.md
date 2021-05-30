@@ -58,6 +58,15 @@ I'm interested in developing user friendly web apps. I love to work with new tec
 </p>
 
 
+<h2>🎉 Achievements</h2>
+<ul>
+<li>Runner-up(regional): Talent Hunt Quizzing Competitions, organized by CUET Career Club</li>
+<li>Champion: Inter-cantonment Extempore Speech Competition</li>
+<li>Champion: Inter-cantonment Quizzing Competition</li>
+<li>Award: 'Academic Excellence Award' at Cumilla Cantonment High School</li>
+<li>Scholarships: Board scholarships in JSC, SSC and HSC. Got 'Bright Star Scholarship' in Cumilla region</li>
+</ul>
+
 <h2>My GitHub stats at a glance</h2>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanviras&show_icons=true&locale=en&layout=compact" alt="tanviras" />
