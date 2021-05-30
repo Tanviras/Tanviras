@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/tanvirsar" target="blank"><img src="https://img.shields.io/twitter/follow/tanvirsar?logo=twitter&style=for-the-badge" alt="tanvirsar" /></a> </p>
 
-- 💬 Ask me about **React and JavaScript**
-
-- 📫 Mail me at **tanviras625@gmail.com**
-
-- ⚡ Fun fact about me: **If I had to eat one type of food for the rest of my life, it would be WATERMELON**
+<p align="left"> <a href="mailto:tanviras625@gmail.com" target="blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fgmail_281769&psig=AOvVaw1hv2AoqkH9reuTRRdMlnp_&ust=1622442629013000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCID-g_fj8PACFQAAAAAdAAAAABAD" alt="tanviras625@gmail.com"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
