@@ -24,7 +24,7 @@ Currently, I am pursuing my Undergraduation degree in Mechanical Engineering fro
 
 I'm interested in developing user friendly web apps. I love to work with new technologies and playing with different stacks.
 
-<p align='center'>![Visitor Count](https://profile-counter.glitch.me/{tanviras}/count.svg)</p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=tanviras&label=Profile%20views&color=0e75b6&style=flat" alt="tanviras" /> </p>
 
 <h2>Technological Skills</h2>
 
