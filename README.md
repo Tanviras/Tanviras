@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/tanvirsar" target="blank"><img src="https://img.shields.io/twitter/follow/tanvirsar?logo=twitter&style=for-the-badge" alt="tanvirsar" /></a> </p>
 
-<a href="https://linkedin.com/in/tanvirahmedsarker" target="blank"><img align="center" src="" alt="Connect" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tanvirahmedsarker" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100009688984369" target="blank"><img align="center" src="" alt="tanvirahmedontu" height="30" width="40" /></a>
 <a href="https://instagram.com/tanvirontu" target="blank"><img align="center" src="" alt="tanvirontu" height="30" width="40" /></a>
 
