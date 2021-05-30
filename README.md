@@ -57,18 +57,11 @@ I'm interested in developing user friendly web apps. I love to work with new tec
 <img align="center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" height="30"/>   
 </p>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanviras&show_icons=true&locale=en&layout=compact" alt="tanviras" />
-</p>
 
-<br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanviras&show_icons=true&locale=en&layout=compact" alt="tanviras" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanviras&" alt="tanviras"/>
 <p>
 &nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanviras&show_icons=true&locale=en" alt="tanviras" />
 </p>
 
-
-<br>
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanviras&" alt="tanviras"/>
-</p>
