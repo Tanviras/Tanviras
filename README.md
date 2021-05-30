@@ -61,11 +61,14 @@ I'm interested in developing user friendly web apps. I love to work with new tec
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanviras&show_icons=true&locale=en&layout=compact" alt="tanviras" />
 </p>
 
+<br/>
 <p>
 &nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanviras&show_icons=true&locale=en" alt="tanviras" />
 </p>
 
+
+<br/>
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanviras&" alt="tanviras"/>
 </p>
