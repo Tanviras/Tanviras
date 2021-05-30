@@ -5,6 +5,8 @@
 <a href="https://twitter.com/TanvirSar" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="tanvirsar" height="30"/></a>
 <a href="https://www.facebook.com/profile.php?id=100009688984369" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="tanvirahmedontu" height="30"/></a>
 
+<a href="https://www.instagram.com/tanvirontu/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="tanvirontu" height="30"/></a>
+
 
 
 👋 Hi there, My name is Tanvir Ahmed Sarker.😀
