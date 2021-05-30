@@ -32,7 +32,7 @@ I'm interested in developing user friendly web apps. I love to work with new tec
 <img align="center" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react-router" height="30"/>
 <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" height="30"/>
 <img align="center" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="mui" height="30"/>
-<br/><img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" height="30"/> 
+<br><img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" height="30"/> 
 <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" height="30"/> 
 </p>
 
@@ -61,14 +61,14 @@ I'm interested in developing user friendly web apps. I love to work with new tec
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanviras&show_icons=true&locale=en&layout=compact" alt="tanviras" />
 </p>
 
-<br/>
+<br>
 <p>
 &nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanviras&show_icons=true&locale=en" alt="tanviras" />
 </p>
 
 
-<br/>
+<br>
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanviras&" alt="tanviras"/>
 </p>
