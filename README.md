@@ -1,17 +1,33 @@
 <h1 align="left">Tanvir Ahmed Sarker</h1>
 
-[column grid="4" span="2"]
-<p>
+<table border="0">
+ <tr>
+    <td>
+      <a href="mailto:tanviras625@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"          alt="Send mail" height="30" /></a>
+      <a href="https://linkedin.com/in/tanvirahmedsarker" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect" height="30"/></a>
+    </td>
+    <td>
+      <img src="https://i.imgur.com/SGK4Ent.png" width="450">
+   </td>
+ </tr>
+  
+ <tr>
+    <td>
+      <a href="https://twitter.com/TanvirSar" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="tanvirsar" height="30"/></a>
+      <a href="https://www.facebook.com/profile.php?id=100009688984369" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="tanvirahmedontu" height="30"/></a>
+    </td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+
+<!-- <p>
 <a href="mailto:tanviras625@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send mail" height="30" /></a>
 <a href="https://linkedin.com/in/tanvirahmedsarker" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect" height="30" /></a>
 <a href="https://twitter.com/TanvirSar" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="tanvirsar" height="30"/></a>
 <a href="https://www.facebook.com/profile.php?id=100009688984369" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="tanvirahmedontu" height="30"/></a>
 <!-- <a href="https://www.instagram.com/tanvirontu/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="tanvirontu" height="30"/></a> -->
-</p>
-[/column]
-[column grid="4" span="2"] 
-<img src="https://i.imgur.com/SGK4Ent.png" width="450">
-[/column]
+</p> -->
+
 
 👋 Hi there, My name is Tanvir Ahmed Sarker.😀
 
