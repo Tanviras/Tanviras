@@ -1,15 +1,9 @@
 <h1 align="left">Tanvir Ahmed Sarker</h1>
 
-<table border="0">
- <tr>
-    <td colspan="2">
-     <img src="https://i.imgur.com/4qweBVi.png">
-    </td>
-    <td colspan="2">
-      <img src="https://i.imgur.com/SGK4Ent.png" width:"400">
-   </td>
- </tr>
-</table>
+<p>
+<img src="https://i.imgur.com/4qweBVi.png" alt='web' width="400">
+<img src="https://i.imgur.com/SGK4Ent.png" alt='front' width="400">
+</p>
 
 <p>
 <a href="mailto:tanviras625@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"          alt="Send mail" height="30" /></a>
