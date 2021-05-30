@@ -2,11 +2,11 @@
 
 <table border="0">
  <tr>
-    <td>
-     <img src="https://i.imgur.com/4qweBVi.png" width:"450">
+    <td colspan="2">
+     <img src="https://i.imgur.com/4qweBVi.png">
     </td>
-    <td>
-      <img src="https://i.imgur.com/SGK4Ent.png" width:"450">
+    <td colspan="2">
+      <img src="https://i.imgur.com/SGK4Ent.png">
    </td>
  </tr>
 </table>
