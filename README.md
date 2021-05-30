@@ -19,7 +19,9 @@ Currently, I am pursuing my Undergraduation degree in Mechanical Engineering fro
 
 I'm interested in developing user friendly web apps. I love to work with new technologies and playing with different stacks.
 
-<p align="center"> <img src="https://i.imgur.com/SGK4Ent.png" alt="tanviras" /> </p>
+<p>align="center"
+<img src="https://i.imgur.com/SGK4Ent.png">
+</p>
 
 <h2>Technological Skills</h2>
 
