@@ -6,7 +6,7 @@
      <img src="https://i.imgur.com/4qweBVi.png">
     </td>
     <td colspan="2">
-      <img src="https://i.imgur.com/SGK4Ent.png">
+      <img src="https://i.imgur.com/SGK4Ent.png" width:"400">
    </td>
  </tr>
 </table>
