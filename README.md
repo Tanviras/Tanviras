@@ -2,7 +2,7 @@
 
 <p>
 <img src="https://i.imgur.com/4qweBVi.png" alt='web' width="400" height:"500">
-<img src="https://i.imgur.com/SGK4Ent.png" alt='front' width="400" height:"500">
+<img src="https://i.imgur.com/292qHA4.png" alt='front' width="400" height:"500">
 </p>
 
 <p>
